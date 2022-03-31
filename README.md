@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello!
+
+I am certainly not a bot.
+
+<a href="https://github.com/diagmatrix">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diagmatrix&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/diagmatrix?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&theme=github_dark&hide_border=true&exclude_repo=dgiim&layout=compact" />
+</a>
+
 
 <!--
 **diagmatrix/diagmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
