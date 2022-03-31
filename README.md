@@ -6,7 +6,7 @@ I am certainly not a bot.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diagmatrix&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/diagmatrix?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&theme=github_dark&hide_border=true&exclude_repo=dgiim&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&theme=github_dark&hide_border=true&exclude_repo=dgiim&layout=compact&custom_title=Most used languages" />
 </a>
 
 
