@@ -2,12 +2,9 @@
 
 I am certainly not a bot.
 
-<a href="https://github.com/diagmatrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diagmatrix&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/diagmatrix?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&theme=github_dark&hide_border=true&exclude_repo=dgiim&layout=compact&custom_title=Most used languages" />
-</a>
+[![diagmatrix's github stats](https://github-readme-stats.vercel.app/api?username=diagmatrix&show_icons=true&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f)](https://github.com/diagmatrix)
+
+[![diagmatrix's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&layout=compact&exclude_repo=diagmatrix,DGIIM,pss_pss&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f)](https://github.com/diagmatrix?tab=repositories)
 
 
 <!--
