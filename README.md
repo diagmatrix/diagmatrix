@@ -6,19 +6,6 @@ I am certainly not a bot (as far as I know). I have an interest in most things a
 
 [![diagmatrix's github stats](https://github-readme-stats.vercel.app/api?username=diagmatrix&show_icons=true&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f)](https://github.com/diagmatrix)
 
-I am currently working on:
-
-[![py-travel](https://github-readme-stats.vercel.app/api/pin/?username=diagmatrix&repo=py-travel)](https://github.com/diagmatrix/py-travel)
-
-and my bachelors thesis...
-
-
-## Currently learning
-
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
 ## Known languages and technologies
 
 ### Programming languages
@@ -26,6 +13,7 @@ and my bachelors thesis...
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
