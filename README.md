@@ -59,7 +59,7 @@ I am certainly not a bot (as far as I know). I have an interest in most things a
 
 ### Repo statistics
 
-[![diagmatrix's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&layout=pie&exclude_repo=diagmatrix,DGIIM,pss_pss&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f&langs_count=6)](https://github.com/diagmatrix?tab=repositories)
+[![diagmatrix's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diagmatrix&layout=pie&exclude_repo=diagmatrix,DGIIM,pss_pss&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f&langs_count=8)](https://github.com/diagmatrix?tab=repositories)
 
 <!--
 **diagmatrix/diagmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
